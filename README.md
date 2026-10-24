@@ -1,11 +1,27 @@
 # Hi there, I'm Gaurab 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurab-kcc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurab-kcc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-kcc&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gaurab-kcc&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurab-kcc&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurab-kcc&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurab-kcc&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
